@@ -2,7 +2,7 @@
 
 A curated list of awesome learning materials, frameworks and articles. Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) and OpenMined [Private-Ai-Resources](https://github.com/OpenMined/private-ai-resources).
 
-If you want to contribute to this list (please do), contact me on slack: `Karol Jezierski`. 
+If you want to contribute to this list (please do), contact me on slack: `Karol Jezierski`.  
 Just send me your username, full name or email address. You can as well make a pull request with your name from slack.
 
 ## Table of Contents
