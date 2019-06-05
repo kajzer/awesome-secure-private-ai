@@ -1,4 +1,4 @@
-# awesome-secure-private-ai
+# Awesome Secure and Private AI
 A curated list of awesome learning materials, frameworks and articles. Inspired by `Awesome Machine Learning`.
 
 If you want to contribute to this list (please do), contact me on slack: `Karol Jezierski`. 
