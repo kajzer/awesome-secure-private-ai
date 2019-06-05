@@ -9,8 +9,8 @@ Just send me your username, full name or email address. You can as well make a p
 
 For help with GIT go to this file
 
-1. Python
-2. General Machine Learning
+1. [Python](files/python.md)
+2. [General Machine Learning](files/general_machine_learning.md)
 3. l1_deep_learn_pytorch - Deep Learning with PyTorch
 4. l2_intro_diff_privacy - Introducing Differential Privacy
 5. l3_eval_privacy_func - Evaluating the Privacy of a Function
